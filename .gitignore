@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+*.local
+.DS_Store
+apps/api/data/
+apps/web/tsconfig.tsbuildinfo
+.npm-cache
